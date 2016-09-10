@@ -1,0 +1,109 @@
+fileFormatVersion: 2
+guid: d265b8e3cf97c1e409569b35831b28c4
+timeCreated: 1462831982
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: stage design_0
+    21300002: stage design_1
+    21300004: stage design_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: stage design_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 41
+        width: 61
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 112}
+        - {x: -30.5, y: -112}
+        - {x: 19.5, y: -112}
+        - {x: 30.5, y: -44}
+        - {x: 30.5, y: 97}
+        - {x: 8.5, y: 112}
+    - name: stage design_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 41
+        width: 60
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 112}
+        - {x: -30, y: 99}
+        - {x: -30, y: -54}
+        - {x: -20, y: -112}
+        - {x: 30, y: -112}
+        - {x: 30, y: 112}
+    - name: stage design_2
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 41
+        width: 269
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -134.5, y: 94.5}
+        - {x: -134.5, y: -94.5}
+        - {x: 134.5, y: -94.5}
+        - {x: 134.5, y: 94.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

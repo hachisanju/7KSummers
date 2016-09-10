@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Extra Stuff/SampleScenes/Scenes/2dCharacter.unity
+  - enabled: 0
+    path: Assets/Extra Stuff/SampleScenes/Scenes/AircraftJet2Axis.unity
+  - enabled: 0
+    path: Assets/Extra Stuff/SampleScenes/Scenes/AircraftJetAI.unity
+  - enabled: 0
+    path: Assets/Extra Stuff/SampleScenes/Scenes/AircraftPropeller4Axis.unity
+  - enabled: 0
+    path: Assets/Extra Stuff/SampleScenes/Scenes/AircraftPropellerAI.unity
+  - enabled: 0
+    path: Assets/Extra Stuff/SampleScenes/Scenes/Car.unity
+  - enabled: 0
+    path: Assets/Extra Stuff/SampleScenes/Scenes/CarAIWaypointBased.unity
+  - enabled: 0
+    path: Assets/Extra Stuff/SampleScenes/Scenes/CharacterFirstPerson.unity
+  - enabled: 0
+    path: Assets/Extra Stuff/SampleScenes/Scenes/CharacterThirdPersonAI.unity
+  - enabled: 0
+    path: Assets/Extra Stuff/SampleScenes/Scenes/CharacterThirdPerson.unity
+  - enabled: 0
+    path: Assets/Extra Stuff/SampleScenes/Scenes/RollerBall.unity
+  - enabled: 0
+    path: Assets/Extra Stuff/SampleScenes/Scenes/Particles.unity
+  - enabled: 0
+    path: Assets/Opening1.unity
+  - enabled: 0
+    path: Assets/MenuScene.unity
+  - enabled: 0
+    path: Assets/Test Scene.unity
+  - enabled: 0
+    path: Assets/pixel perfect test room.unity
+  - enabled: 0
+    path: Assets/New Dungeon.unity
+  - enabled: 0
+    path: Assets/Test Room.unity
+  - enabled: 1
+    path: Assets/DebugRoom.unity

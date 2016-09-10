@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Text Box
+  - Attack
+  - Enemy
+  - NPC
+  - PlayerPortrait
+  - OtherPortrait
+  - Building
+  - DungeonCell
+  - Slot
+  - Slots
+  - Canvas
+  - Panel
+  - PlayerComponent
+  - FlatNPC
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Col0
+  - Bg0
+  - Col1
+  - Bg1
+  - Col2
+  - Bg2
+  - Col3
+  - Bg3
+  - ZeroOne
+  - OneTwo
+  - TwoThree
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: C0
+    uniqueID: 3870740657
+    locked: 0
+  - name: B0
+    uniqueID: 2819789023
+    locked: 0
+  - name: C1
+    uniqueID: 1093696345
+    locked: 0
+  - name: B1
+    uniqueID: 1859086223
+    locked: 0
+  - name: C2
+    uniqueID: 1645079805
+    locked: 0
+  - name: B2
+    uniqueID: 489265993
+    locked: 0
+  - name: C3
+    uniqueID: 1838696489
+    locked: 0
+  - name: B3
+    uniqueID: 4017036637
+    locked: 0
+  - name: Characters
+    uniqueID: 3940858523
+    locked: 0
+  - name: UI
+    uniqueID: 771169021
+    locked: 0

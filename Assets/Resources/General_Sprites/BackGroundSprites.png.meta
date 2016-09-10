@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: c1f5c06c7e554c245bb3c303e2e4d397
+timeCreated: 1471139090
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BackGroundSprites_0
+    21300002: BackGroundSprites_1
+    21300004: BackGroundSprites_2
+    21300006: BackGroundSprites_3
+    21300008: BackGroundSprites_4
+    21300010: BackGroundSprites_5
+    21300012: BackGroundSprites_6
+    21300014: BackGroundSprites_7
+    21300016: BackGroundSprites_8
+    21300018: BackGroundSprites_9
+    21300020: BackGroundSprites_10
+    21300022: BackGroundSprites_11
+    21300024: BackGroundSprites_12
+    21300026: BackGroundSprites_13
+    21300028: BackGroundSprites_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BackGroundSprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 601
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: BackGroundSprites_1
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 62
+        width: 36
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: BackGroundSprites_2
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 80
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: BackGroundSprites_3
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 60
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: BackGroundSprites_4
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 143
+        width: 268
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: BackGroundSprites_5
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 259
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: BackGroundSprites_6
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 72
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: BackGroundSprites_7
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 65
+        width: 152
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: BackGroundSprites_8
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 181
+        width: 52
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: BackGroundSprites_9
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 506
+        width: 135
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: BackGroundSprites_10
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 416
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: BackGroundSprites_11
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 416
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: BackGroundSprites_12
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 416
+        width: 273
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: BackGroundSprites_13
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 550
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: BackGroundSprites_14
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 550
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

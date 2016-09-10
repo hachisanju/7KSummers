@@ -1,0 +1,418 @@
+fileFormatVersion: 2
+guid: ef9be8a96fc2deb4e9696a7f03d9a88a
+timeCreated: 1464143874
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Dungeon 1 stuff_0
+    21300002: Dungeon 1 stuff_1
+    21300004: Dungeon 1 stuff_2
+    21300006: Dungeon 1 stuff_3
+    21300008: Dungeon 1 stuff_4
+    21300010: Dungeon 1 stuff_5
+    21300012: Dungeon 1 stuff_6
+    21300014: Dungeon 1 stuff_7
+    21300016: Dungeon 1 stuff_10
+    21300018: Dungeon 1 stuff_11
+    21300020: Dungeon 1 stuff_12
+    21300022: Dungeon 1 stuff_13
+    21300024: Dungeon 1 stuff_14
+    21300026: Dungeon 1 stuff_15
+    21300028: Dungeon 1 stuff_17
+    21300030: Dungeon 1 stuff_16
+    21300032: Dungeon 1 stuff_18
+    21300034: Dungeon 1 stuff_19
+    21300036: Dungeon 1 stuff_20
+    21300038: Dungeon 1 stuff_21
+    21300040: Dungeon 1 stuff_22
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Dungeon 1 stuff_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 547
+        width: 256
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 96}
+        - {x: -128, y: -96}
+        - {x: 128, y: -96}
+        - {x: 128, y: 96}
+    - name: Dungeon 1 stuff_1
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 701
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon 1 stuff_2
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 612
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon 1 stuff_3
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 606
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 28.5}
+        - {x: -29.5, y: 26.5}
+        - {x: -29.5, y: -16.5}
+        - {x: -25.5, y: -28.5}
+        - {x: 21.5, y: -28.5}
+        - {x: 29.5, y: -25.5}
+        - {x: 29.5, y: 28.5}
+    - name: Dungeon 1 stuff_4
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 605
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon 1 stuff_5
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 605
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon 1 stuff_6
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 439
+        width: 306
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -153, y: 26}
+        - {x: -153, y: -26}
+        - {x: 153, y: -26}
+        - {x: 153, y: 26}
+    - name: Dungeon 1 stuff_7
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 245
+        width: 288
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 144, y: -27}
+        - {x: 144, y: 12}
+        - {x: 130, y: 12}
+        - {x: 130, y: 90}
+        - {x: 128, y: 92}
+        - {x: 33, y: 92}
+        - {x: 33, y: 106}
+        - {x: -32, y: 106}
+        - {x: -32, y: 92}
+        - {x: -128, y: 92}
+        - {x: -130, y: 90}
+        - {x: -144, y: 15}
+        - {x: -144, y: -24}
+        - {x: -130, y: -24}
+        - {x: -130, y: -102}
+        - {x: -128, y: -104}
+        - {x: -56, y: -106}
+        - {x: 33, y: -106}
+        - {x: 33, y: -104}
+        - {x: 128, y: -104}
+        - {x: 130, y: -102}
+    - name: Dungeon 1 stuff_10
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 186
+        width: 60
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 110}
+        - {x: -30, y: -110}
+        - {x: 5, y: -110}
+        - {x: 30, y: -26}
+        - {x: 30, y: 76}
+        - {x: 6, y: 110}
+    - name: Dungeon 1 stuff_11
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 186
+        width: 60
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 110}
+        - {x: -30, y: 82}
+        - {x: -30, y: -8}
+        - {x: -21, y: -20}
+        - {x: -18, y: -19}
+        - {x: -12, y: -54}
+        - {x: -9, y: -61}
+        - {x: -4, y: -110}
+        - {x: 30, y: -110}
+        - {x: 30, y: 110}
+    - name: Dungeon 1 stuff_12
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 354
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon 1 stuff_13
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 354
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon 1 stuff_14
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 205
+        width: 125
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon 1 stuff_15
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 205
+        width: 121
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dungeon 1 stuff_16
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 221
+        width: 60
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 8}
+        - {x: -14, y: 8}
+        - {x: -30, y: 2}
+        - {x: -30, y: -8}
+        - {x: -21, y: -20}
+        - {x: -18, y: -19}
+        - {x: -12, y: -54}
+        - {x: -9, y: -61}
+        - {x: -4, y: -110}
+        - {x: 30, y: -110}
+        - {x: 30, y: 6}
+        - {x: 29, y: 7}
+      - - {x: -4, y: 110}
+        - {x: -12, y: 103}
+        - {x: -12, y: 54}
+        - {x: 30, y: 54}
+        - {x: 30, y: 110}
+    - name: Dungeon 1 stuff_17
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 221
+        width: 60
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 8}
+        - {x: -30, y: 5}
+        - {x: -30, y: -110}
+        - {x: 8, y: -110}
+        - {x: 30, y: -24}
+        - {x: 30, y: 8}
+      - - {x: 4, y: 110}
+        - {x: -30, y: 110}
+        - {x: -30, y: 54}
+        - {x: 9, y: 54}
+        - {x: 12, y: 57}
+        - {x: 12, y: 75}
+        - {x: 10, y: 102}
+    - name: Dungeon 1 stuff_18
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 116
+        width: 306
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 149, y: 25}
+        - {x: -151, y: 25}
+        - {x: -153, y: 23}
+        - {x: -153, y: -25}
+        - {x: 153, y: -25}
+        - {x: 153, y: 23}
+    - name: Dungeon 1 stuff_19
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 137
+        width: 125
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.5, y: 24.5}
+        - {x: -62.5, y: 20.5}
+        - {x: -62.5, y: -24.5}
+        - {x: 62.5, y: -24.5}
+        - {x: 62.5, y: 23.5}
+        - {x: 56.5, y: 24.5}
+    - name: Dungeon 1 stuff_20
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 137
+        width: 121
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.5, y: 24.5}
+        - {x: -60.5, y: -24.5}
+        - {x: 60.5, y: -24.5}
+        - {x: 60.5, y: 24.5}
+    - name: Dungeon 1 stuff_21
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 61
+        width: 125
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61.5, y: 24.5}
+        - {x: -62.5, y: 23.5}
+        - {x: -62.5, y: -24.5}
+        - {x: 62.5, y: -24.5}
+        - {x: 62.5, y: 23.5}
+        - {x: 61.5, y: 24.5}
+    - name: Dungeon 1 stuff_22
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 61
+        width: 121
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.5, y: 25}
+        - {x: -60.5, y: -25}
+        - {x: 60.5, y: -25}
+        - {x: 60.5, y: 23}
+        - {x: 54.5, y: 25}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

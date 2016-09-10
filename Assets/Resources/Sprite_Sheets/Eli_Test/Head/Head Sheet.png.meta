@@ -1,0 +1,474 @@
+fileFormatVersion: 2
+guid: 57868d20d0d01214ea71a441864fd8df
+timeCreated: 1469922993
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Head Sheet_0
+    21300002: Head Sheet_1
+    21300004: Head Sheet_2
+    21300006: Head Sheet_3
+    21300008: Head Sheet_4
+    21300010: Head Sheet_5
+    21300012: Head Sheet_6
+    21300014: Head Sheet_7
+    21300016: Head Sheet_8
+    21300018: Head Sheet_9
+    21300020: Head Sheet_10
+    21300022: Head Sheet_11
+    21300024: Head Sheet_12
+    21300026: Head Sheet_13
+    21300028: Head Sheet_14
+    21300030: Head Sheet_15
+    21300032: Head Sheet_16
+    21300034: Head Sheet_17
+    21300036: Head Sheet_18
+    21300038: Head Sheet_19
+    21300040: Head Sheet_20
+    21300042: Head Sheet_21
+    21300044: Head Sheet_22
+    21300046: Head Sheet_23
+    21300048: Head Sheet_24
+    21300050: Head Sheet_25
+    21300052: Head Sheet_26
+    21300054: Head Sheet_27
+    21300056: Head Sheet_28
+    21300058: Head Sheet_29
+    21300060: Head Sheet_30
+    21300062: Head Sheet_31
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Head Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 461
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Head Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 461
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Head Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 461
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Head Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 461
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Head Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 461
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Head Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 402
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Head Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 402
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Head Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 402
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Head Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 402
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Head Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 336
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Head Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 336
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Head Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 336
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Head Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 266
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Head Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 266
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Head Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 266
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Head Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 266
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Head Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 209
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Head Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 209
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Head Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 209
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Head Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 153
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Head Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 153
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Head Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 153
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Head Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 153
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Head Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 85
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Head Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 85
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Head Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 85
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Head Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 85
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Head Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 85
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Head Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 26
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Head Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 26
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Head Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 26
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Head Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 26
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
